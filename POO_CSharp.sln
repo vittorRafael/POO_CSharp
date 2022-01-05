@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "POO_CSharp", "POO_CSharp\POO_CSharp.csproj", "{758E3983-7A9F-42B6-87BA-C162912570AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesBank", "SalesBank\SalesBank.csproj", "{F1A557E2-5383-4156-88FA-90552B77E764}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{758E3983-7A9F-42B6-87BA-C162912570AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{758E3983-7A9F-42B6-87BA-C162912570AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{758E3983-7A9F-42B6-87BA-C162912570AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{758E3983-7A9F-42B6-87BA-C162912570AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1A557E2-5383-4156-88FA-90552B77E764}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1A557E2-5383-4156-88FA-90552B77E764}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1A557E2-5383-4156-88FA-90552B77E764}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1A557E2-5383-4156-88FA-90552B77E764}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29A8F87A-08C2-4622-A3D3-62D06C9710C3}
+	EndGlobalSection
+EndGlobal
